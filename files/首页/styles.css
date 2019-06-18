@@ -124,7 +124,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:65px;
   height:21px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -142,9 +142,9 @@
 }
 #u42 {
   position:absolute;
-  left:179px;
+  left:164px;
   top:44px;
-  width:33px;
+  width:65px;
   height:21px;
   font-family:'微软雅黑 Regular', '微软雅黑';
   font-weight:400;
@@ -157,7 +157,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:33px;
+  width:65px;
   white-space:nowrap;
 }
 #u44_img {
