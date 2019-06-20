@@ -107,3 +107,19 @@
   font-size:17px;
   color:#FFFFFF;
 }
+._二级标题1 {
+  font-family:'微软雅黑 Bold', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  color:#6B6B6B;
+  text-align:left;
+}
+._文本段落1 {
+  font-family:'微软雅黑 Regular', '微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#797979;
+  text-align:left;
+}
